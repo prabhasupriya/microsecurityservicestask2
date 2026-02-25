@@ -1,0 +1,12 @@
+# Required exclusions
+encrypted_seed.txt
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+
+# DO NOT ignore these (Must be committed)
+!student_private.pem
+!student_public.pem
+!instructor_public.pem

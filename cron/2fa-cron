@@ -1,0 +1,2 @@
+* * * * * root /usr/local/bin/python3 /app/scripts/log_2fa_cron.py >> /cron/last_code.txt 2>&1
+# (Ensure there is a blank line here at the end!)
